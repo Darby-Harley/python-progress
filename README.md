@@ -1,26 +1,18 @@
-# Python Progress  
+# Python Progress
 
-This repository tracks my journey learning **Python** through the **Codedex app**. I’m revisiting coding after some years and documenting my notes, exercises, and projects here.  
-
-## Learning Goals
-- Build a solid understanding of Python fundamentals
-- Practice coding exercises regularly
-- Apply concepts to small projects in the future
+This repository tracks my learning and practice in Python. Most of my progress comes from using CodeDex.
 
 ## Current Progress
-- **Chapter 1: Basics** ✅ Completed  
-  - Notes and exercises included  
-- **Chapter 2: Data Types** ⬜ In progress  
-- **Chapter 3: Control Flow** ⬜ Not started  
+- Chapter 1: Basics
+  - Variables, data types, input/output
+  - Simple exercises completed
+- Chapter 2: [Coming soon]
 
-## Repository Structure
-chapter-1-basics/
-notes.md
-exercises.py
-chapter-2-data-types/
-notes.md
-exercises.py
+## Goals
+- Complete CodeDex Python course
+- Practice exercises daily
+- Apply Python skills to cybersecurity projects
 
 ## Notes
-- I update this repo frequently to track my learning
-- Eventually, I’ll add mini-projects to apply what I’ve learned
+- This repo is mainly for tracking learning and practice.
+- Future updates will include exercises, projects, and scripts.
